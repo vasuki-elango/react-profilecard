@@ -1,4 +1,5 @@
 import PropTypes from 'prop-types';
+import './index.css'
 
 const UserData =[
     {
@@ -7,7 +8,7 @@ const UserData =[
         job :"ui/ux desginer",
         online:false,
         skills : ["html","css","javascript","sql","ui/ux interface","java","Adobe-xd","figma"],
-        profile : "images/person1.jpeg",
+        profile :  '/Images/person1.jpeg',
     },
     {
         name:"Emily Jack",
@@ -15,7 +16,7 @@ const UserData =[
         job :"software developer",
         online:true,
         skills : ["java","rupy","javascript","sql","c#","communication","network-security"],
-        profile : "images/person2.jpeg",
+        profile :  './Images/person2.jpeg',
     },
     {
         name:"Aadarsh",
@@ -23,7 +24,7 @@ const UserData =[
         job :"fullstack developer",
         online:false,
         skills : ["html","css","javascript","sql","react js","python","Node js","Git/github"],
-        profile : "images/person3.jpeg",
+        profile : "./Images/person3.jpeg",
     },
     {
         name:"Inaya",
@@ -31,7 +32,7 @@ const UserData =[
         job :"frontend developer",
         online:true,
         skills : ["html","css","javascript","sql","ui/ux inferface","react js","python"],
-        profile : "images/person2.jpeg",
+        profile : "./Images/person2.jpeg",
     },
 ]
 
