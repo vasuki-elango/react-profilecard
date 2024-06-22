@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-profilecard.git/static/css/main.aab22ec0.css",
+    "main.js": "/react-profilecard.git/static/js/main.ff64a7d0.js",
+    "static/js/453.2807b325.chunk.js": "/react-profilecard.git/static/js/453.2807b325.chunk.js",
+    "index.html": "/react-profilecard.git/index.html",
+    "main.aab22ec0.css.map": "/react-profilecard.git/static/css/main.aab22ec0.css.map",
+    "main.ff64a7d0.js.map": "/react-profilecard.git/static/js/main.ff64a7d0.js.map",
+    "453.2807b325.chunk.js.map": "/react-profilecard.git/static/js/453.2807b325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab22ec0.css",
+    "static/js/main.ff64a7d0.js"
+  ]
+}
